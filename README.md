@@ -33,3 +33,6 @@
 - TailwindCSS
 - ESLint
 - Javascript
+
+## Deployment 
+https://pod-stream-beige.vercel.app/
